@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+}
+input{
+    width: 200px;
+    height: 2em;
+    border-radius: 5px;
+    margin: 20px;
+}
+.center-align{
+    align-items: center;
+    justify-content: center;
+    /* display: flexbox; */
+}
+h1{
+    background-color: limegreen;
+    
+}
+button{
+    background-color: rgb(2, 216, 244);
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    color: aliceblue;
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+}
+li{
+    border: 1px solid;
+    width: 400px;
+    border-radius:20px ;
+}
